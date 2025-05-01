@@ -257,7 +257,7 @@ class M3UCollector:
 def main():
     # Specific M3U sources (12 sources)
     source_urls = [
-        "https://tv.iill.top/m3u/Gather",
+        "https://tv.iill.top/m3u/Gather/Gather.m3u",
     ]
 
     # Set check_links=False for super speed, True for accuracy
