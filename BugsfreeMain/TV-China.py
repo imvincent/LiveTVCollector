@@ -27,8 +27,7 @@ class M3UCollector:
 
     def fetch_content(self, url):
         """Fetch content (M3U or HTML) with streaming."""
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-        
+        headers = {'User-Agent': '(Windows NT 10.0; Win64; x64) PotPlayer/25.04.03'}
         try:
             with requests.get(url, stream=True, headers=headers, timeout=10) as response:
                 response.raise_for_status()
@@ -257,7 +256,7 @@ class M3UCollector:
 def main():
     # Specific M3U sources (12 sources)
     source_urls = [
-        "https://tv.iill.top/m3u/Gather/Gather.m3u",
+        "https://tv.iill.top/m3u/Gather",
     ]
 
     # Set check_links=False for super speed, True for accuracy
