@@ -29,7 +29,7 @@ class M3UCollector:
         """Fetch content (M3U or HTML) with streaming."""
         headers = {'User-Agent': '(Windows NT 10.0; Win64; x64) PotPlayer/25.04.03'}
         try:
-            with requests.get(url, stream=True, headers=headers, timeout=10) as response:
+            with requests.get(url, headers=headers) as response:
                 response.raise_for_status()
                 lines = [line.decode('utf-8', errors='ignore') if isinstance(line, bytes) else line for line in response.iter_lines()]
                 content = '\n'.join(lines)
