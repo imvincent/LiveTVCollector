@@ -257,10 +257,7 @@ class M3UCollector:
 def main():
     # Specific M3U sources (12 sources)
     source_urls = [
-        "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
-        "https://iptv.wwkejishe.top/tv.m3u",
-        "https://iptv.wwkejishe.top/Sub.m3u",
-        "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+        "https://tv.iill.top/m3u/Gather",
     ]
 
     # Set check_links=False for super speed, True for accuracy
