@@ -68,7 +68,7 @@ class M3UCollector:
 
     def check_link_active(self, url, timeout=2):
         """Check if a link is active, optimized for speed."""
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+        headers = {'User-Agent': '(Windows NT 10.0; Win64; x64) PotPlayer/25.04.03'}
         
         with self.lock:
             if url in self.url_status_cache:
