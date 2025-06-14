@@ -718,48 +718,48 @@ Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「NBA」
-Name: 「NBA」06/14 07:45 总决赛 雷霆VS步行者 杨健 刘晓宇 苏群
-URL: https://tv.iill.top/NBA/H36pVN
+Name: 「NBA」07:45 总决赛 雷霆VS步行者 杨健 刘晓宇 苏群
+URL: https://tv.iill.top/NBA/MCxJHR
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「NBA」06/14 08:20 总决赛 雷霆VS步行者 蔡凯臣 陈正昊
-URL: https://tv.iill.top/NBA/UufOqP
+Name: 「NBA」08:20 总决赛 雷霆VS步行者 蔡凯臣 陈正昊
+URL: https://tv.iill.top/NBA/iN8hBY
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「NBA」06/14 08:25 总决赛 雷霆VS步行者 罗森
-URL: https://tv.iill.top/NBA/9Rgryl
+Name: 「NBA」08:25 总决赛 雷霆VS步行者 罗森
+URL: https://tv.iill.top/NBA/GXrwhg
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「NBA」06/14 08:25 总决赛 雷霆VS步行者 仔涛
-URL: https://tv.iill.top/NBA/WKoAXc
+Name: 「NBA」08:25 总决赛 雷霆VS步行者 仔涛
+URL: https://tv.iill.top/NBA/606ozl
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「NBA」06/14 08:25 总决赛 雷霆VS步行者 英文原声
-URL: https://tv.iill.top/NBA/QaJwO0
+Name: 「NBA」08:25 总决赛 雷霆VS步行者 英文原声
+URL: https://tv.iill.top/NBA/Bx6epD
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「NBA」06/14 08:25 总决赛 雷霆VS步行者 莫俊祺
-URL: https://tv.iill.top/NBA/7OjkWD
+Name: 「NBA」08:25 总决赛 雷霆VS步行者 莫俊祺
+URL: https://tv.iill.top/NBA/f4YnvO
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「NBA」06/14 08:25 总决赛 雷霆VS步行者 洪荒
-URL: https://tv.iill.top/NBA/XmHhyd
+Name: 「NBA」08:25 总决赛 雷霆VS步行者 洪荒
+URL: https://tv.iill.top/NBA/x1q7mu
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「NBA」06/14 08:25 总决赛 雷霆VS步行者 VIP前排视角
-URL: https://tv.iill.top/NBA/hpfBAt
+Name: 「NBA」08:25 总决赛 雷霆VS步行者 VIP前排视角
+URL: https://tv.iill.top/NBA/OCce97
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「NBA」06/14 08:25 总决赛 雷霆VS步行者 球场十倍镜
-URL: https://tv.iill.top/NBA/EhfdLX
+Name: 「NBA」08:25 总决赛 雷霆VS步行者 球场十倍镜
+URL: https://tv.iill.top/NBA/th5EEZ
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
@@ -1032,235 +1032,230 @@ Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「体育」
-Name: 「WTA」06/13 22:00 郑钦文迎战拉杜卡努冲四强 郑钦文迎战拉杜卡努冲四强 郑钦文 vs 拉杜卡努-佟艺
-URL: https://tv.iill.top/Migu/Nhjzgq
+Name: 「全国夏季游泳锦标赛」09:20 男子100米蝶泳等多项预赛 男子100米蝶泳等多项预赛 清流播出
+URL: https://tv.iill.top/Migu/XQgRep
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「全国夏季游泳锦标赛」06/14 09:20 男子100米蝶泳等多项预赛 男子100米蝶泳等多项预赛 清流播出
-URL: https://tv.iill.top/Migu/Ac0Hvb
+Name: 「超三联赛」12:50 超三联赛上海争霸赛小组赛Day2下午场 超三联赛上海争霸赛小组赛Day2下午场 魏铭 李嘉伟
+URL: https://tv.iill.top/Migu/OcPSHI
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「超三联赛」06/14 12:50 超三联赛上海争霸赛小组赛Day2下午场 超三联赛上海争霸赛小组赛Day2下午场 魏铭 李嘉伟
-URL: https://tv.iill.top/Migu/plIJhF
+Name: 「KPL」13:40 常山UUG vs 长沙TES.A 常山UUG vs 长沙TES.A 官方解说
+URL: https://tv.iill.top/Migu/82Idse
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「KPL」06/14 13:40 常山UUG vs 长沙TES.A 常山UUG vs 长沙TES.A 官方解说
-URL: https://tv.iill.top/Migu/ditCOb
+Name: 「江苏城市足球联赛」14:50 江苏城市足球联赛 淮安队vs南京队 解说
+URL: https://tv.iill.top/Migu/L1Qqw3
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「江苏城市足球联赛」06/14 14:50 江苏城市足球联赛 淮安队vs南京队 解说
-URL: https://tv.iill.top/Migu/yuM4Ej
+Name: 「江苏城市足球联赛」14:50 江苏城市足球联赛 扬州队vs泰州队 解说
+URL: https://tv.iill.top/Migu/HReZRx
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「江苏城市足球联赛」06/14 14:50 江苏城市足球联赛 扬州队vs泰州队 解说
-URL: https://tv.iill.top/Migu/SbFUOY
+Name: 「中乙」15:50 中乙联赛 赣州瑞狮vs昆明城星 解说
+URL: https://tv.iill.top/Migu/u0lwTy
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/14 15:50 中乙联赛 赣州瑞狮vs昆明城星 解说
-URL: https://tv.iill.top/Migu/yJsinG
+Name: 「中乙」15:50 中乙联赛 广东铭途vs贵州筑城竞技 解说
+URL: https://tv.iill.top/Migu/4aZ7EW
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/14 15:50 中乙联赛 广东铭途vs贵州筑城竞技 解说
-URL: https://tv.iill.top/Migu/f9ZLwk
+Name: 「中乙」15:50 中乙联赛 上海海港富盛经开vs江西庐山 解说
+URL: https://tv.iill.top/Migu/G5Zr7u
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/14 15:50 中乙联赛 上海海港富盛经开vs江西庐山 解说
-URL: https://tv.iill.top/Migu/G2cnYD
+Name: 「中乙」16:50 中乙联赛 广西恒宸vs泉州亚新 解说
+URL: https://tv.iill.top/Migu/2V9p9d
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/14 16:50 中乙联赛 广西恒宸vs泉州亚新 解说
-URL: https://tv.iill.top/Migu/vHQ2dO
+Name: 「KPL」17:00 上海RNG.M vs 桐乡情久 上海RNG.M vs 桐乡情久 官方解说
+URL: https://tv.iill.top/Migu/Ltd6Dp
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「KPL」06/14 17:00 上海RNG.M vs 桐乡情久 上海RNG.M vs 桐乡情久 官方解说
-URL: https://tv.iill.top/Migu/CjL1zq
+Name: 「WTA」17:00 WTA斯海尔托亨博斯站半决赛 WTA斯海尔托亨博斯站半决赛 赛场原声
+URL: https://tv.iill.top/Migu/argS8c
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」06/14 17:00 WTA斯海尔托亨博斯站半决赛 WTA斯海尔托亨博斯站半决赛 赛场原声
-URL: https://tv.iill.top/Migu/vK1BCm
+Name: 「WTA」17:00 WTA斯海尔托亨博斯站半决赛 WTA斯海尔托亨博斯站半决赛 英文原声
+URL: https://tv.iill.top/Migu/HXryyU
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」06/14 17:00 WTA斯海尔托亨博斯站半决赛 WTA斯海尔托亨博斯站半决赛 英文原声
-URL: https://tv.iill.top/Migu/LKRss7
+Name: 「WTT」17:00 国乒德比！纵歌曼对阵范姝涵争4强 国乒德比！纵歌曼对阵范姝涵争4强 周冠达 小马哥
+URL: https://tv.iill.top/Migu/e4KfVL
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」06/14 17:00 混双决赛、单打1/4决赛及单双打半决赛 混双决赛、单打1/4决赛及单双打半决赛 周冠达 小马哥
-URL: https://tv.iill.top/Migu/jxzEmp
+Name: 「WTT」23:30 国乒德比！纵歌曼对阵范姝涵争4强 国乒德比！纵歌曼对阵范姝涵争4强 周泽昊
+URL: https://tv.iill.top/Migu/tzmC6X
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」06/14 23:30 混双决赛、单打1/4决赛及单双打半决赛 混双决赛、单打1/4决赛及单双打半决赛 周泽昊
-URL: https://tv.iill.top/Migu/uGblps
+Name: 「WTT」17:00 国乒德比！纵歌曼对阵范姝涵争4强 国乒德比！纵歌曼对阵范姝涵争4强 1号桌
+URL: https://tv.iill.top/Migu/dyiM40
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」06/14 17:00 混双决赛、单打1/4决赛及单双打半决赛 混双决赛、单打1/4决赛及单双打半决赛 1号桌
-URL: https://tv.iill.top/Migu/wWebsN
+Name: 「WTT」17:00 国乒德比！纵歌曼对阵范姝涵争4强 国乒德比！纵歌曼对阵范姝涵争4强 2号桌
+URL: https://tv.iill.top/Migu/Hy5Nl5
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」06/14 17:00 混双决赛、单打1/4决赛及单双打半决赛 混双决赛、单打1/4决赛及单双打半决赛 2号桌
-URL: https://tv.iill.top/Migu/4zQrEn
+Name: 「WTT」17:00 国乒德比！纵歌曼对阵范姝涵争4强 国乒德比！纵歌曼对阵范姝涵争4强 1号桌英文解说
+URL: https://tv.iill.top/Migu/IyVTqm
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」06/14 17:00 混双决赛、单打1/4决赛及单双打半决赛 混双决赛、单打1/4决赛及单双打半决赛 1号桌英文解说
-URL: https://tv.iill.top/Migu/4O5ZM9
+Name: 「超三联赛」18:50 超三联赛上海争霸赛小组赛Day2晚间场 超三联赛上海争霸赛小组赛Day2晚间场 王冠证
+URL: https://tv.iill.top/Migu/SoOVt7
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「超三联赛」06/14 18:50 超三联赛上海争霸赛小组赛Day2晚间场 超三联赛上海争霸赛小组赛Day2晚间场 王冠证
-URL: https://tv.iill.top/Migu/10Otyn
+Name: 「国青男篮国际挑战赛」19:25 国青男篮国际挑战赛 中国U19男篮vs德国青年队 金哲豪
+URL: https://tv.iill.top/Migu/538Dym
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「国青男篮国际挑战赛」06/14 19:25 国青男篮国际挑战赛 中国U19男篮vs德国青年队 金哲豪
-URL: https://tv.iill.top/Migu/TAN0t6
+Name: 「国青男篮国际挑战赛」19:25 国青男篮国际挑战赛 中国U19男篮vs德国青年队 清流播出
+URL: https://tv.iill.top/Migu/EaI4Cr
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「国青男篮国际挑战赛」06/14 19:25 国青男篮国际挑战赛 中国U19男篮vs德国青年队 清流播出
-URL: https://tv.iill.top/Migu/33khnG
+Name: 「中乙」19:20 中乙联赛 海门珂缔缘vs无锡吴钩 解说
+URL: https://tv.iill.top/Migu/4lWv2V
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/14 19:20 中乙联赛 海门珂缔缘vs无锡吴钩 解说
-URL: https://tv.iill.top/Migu/RkqeAx
+Name: 「中乙」19:20 中乙联赛 武汉三镇B队vs成都蓉城B队 解说
+URL: https://tv.iill.top/Migu/6uSoxh
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/14 19:20 中乙联赛 武汉三镇B队vs成都蓉城B队 解说
-URL: https://tv.iill.top/Migu/yMKpEZ
+Name: 「全国夏季游泳锦标赛」19:20 男子100米蝶泳等多项决赛 男子100米蝶泳等多项决赛 清流播出
+URL: https://tv.iill.top/Migu/3iiSuL
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「全国夏季游泳锦标赛」06/14 19:20 男子100米蝶泳等多项决赛 男子100米蝶泳等多项决赛 清流播出
-URL: https://tv.iill.top/Migu/jYopQh
+Name: 「KPL」20:00 成都AG超玩会 vs 武汉eStarPro 成都AG超玩会 vs 武汉eStarPro 官方解说
+URL: https://tv.iill.top/Migu/3I5tpQ
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「KPL」06/14 20:00 成都AG超玩会 vs 武汉eStarPro 成都AG超玩会 vs 武汉eStarPro 官方解说
-URL: https://tv.iill.top/Migu/bnatJt
+Name: 「WTA」20:30 WTA伦敦站半决赛 WTA伦敦站半决赛 赛场原声
+URL: https://tv.iill.top/Migu/nSsnt6
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」06/14 20:30 WTA伦敦站半决赛 WTA伦敦站半决赛 赛场原声
-URL: https://tv.iill.top/Migu/mdLDLU
+Name: 「WTA」20:30 WTA伦敦站半决赛 WTA伦敦站半决赛 英文原声
+URL: https://tv.iill.top/Migu/UsDIRL
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」06/14 20:30 WTA伦敦站半决赛 WTA伦敦站半决赛 英文原声
-URL: https://tv.iill.top/Migu/mWMBqQ
+Name: 「WTA」20:30 WTA伦敦站半决赛 WTA伦敦站半决赛 李宁
+URL: https://tv.iill.top/Migu/iufqXE
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」06/14 20:30 WTA伦敦站半决赛 WTA伦敦站半决赛 李宁
-URL: https://tv.iill.top/Migu/IFj3CN
-Logo: https://epg.iill.top/logo/咪咕.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
-Name: 「WTA」06/14 22:30 WTA伦敦站半决赛 WTA伦敦站半决赛 房朕
-URL: https://tv.iill.top/Migu/C58VKn
+Name: 「WTA」22:30 WTA伦敦站半决赛 WTA伦敦站半决赛 房朕
+URL: https://tv.iill.top/Migu/oXKlIQ
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「足球」
-Name: 「中超」06/14 15:00 联赛 浙江 vs 上海海港 李欣 贺宇 李子琪
-URL: https://tv.iill.top/FB/4lbDoD
+Name: 「中超」15:00 联赛 浙江 vs 上海海港 李欣 贺宇 李子琪
+URL: https://tv.iill.top/FB/zq4y97
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 15:15 联赛 浙江 vs 上海海港 涂远
-URL: https://tv.iill.top/FB/688FgB
+Name: 「中超」15:15 联赛 浙江 vs 上海海港 涂远
+URL: https://tv.iill.top/FB/x7y8md
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 15:15 联赛 浙江 vs 上海海港 赛场原声
-URL: https://tv.iill.top/FB/dkxGoE
+Name: 「中超」15:15 联赛 浙江 vs 上海海港 赛场原声
+URL: https://tv.iill.top/FB/4ingsC
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 18:30 联赛 北京国安 vs 长春亚泰 孙雨轩 黄健翔
-URL: https://tv.iill.top/FB/Ao81cz
+Name: 「中超」18:30 联赛 北京国安 vs 长春亚泰 孙雨轩 黄健翔
+URL: https://tv.iill.top/FB/FiqRdL
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 18:45 联赛 北京国安 vs 长春亚泰 赛场原声
-URL: https://tv.iill.top/FB/F4EKFI
+Name: 「中超」18:45 联赛 北京国安 vs 长春亚泰 赛场原声
+URL: https://tv.iill.top/FB/tkUGR4
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 18:45 联赛 青岛西海岸 vs 云南玉昆 张昊泽 李毅
-URL: https://tv.iill.top/FB/YPjG0w
+Name: 「中超」18:45 联赛 青岛西海岸 vs 云南玉昆 张昊泽 李毅
+URL: https://tv.iill.top/FB/ChL2tV
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 18:45 联赛 青岛西海岸 vs 云南玉昆 赛场原声
-URL: https://tv.iill.top/FB/GXaAdq
+Name: 「中超」18:45 联赛 青岛西海岸 vs 云南玉昆 赛场原声
+URL: https://tv.iill.top/FB/IL3vOB
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中甲」06/14 18:50 联赛 辽宁铁人 vs 上海嘉定汇龙 解说
-URL: https://tv.iill.top/FB/3tVcJk
+Name: 「中甲」18:50 联赛 辽宁铁人 vs 上海嘉定汇龙 解说
+URL: https://tv.iill.top/FB/TManJj
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中甲」06/14 19:20 联赛 佛山南狮 vs 延边龙鼎 解说
-URL: https://tv.iill.top/FB/56BsOI
+Name: 「中甲」19:20 联赛 佛山南狮 vs 延边龙鼎 解说
+URL: https://tv.iill.top/FB/V4Esq6
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中甲」06/14 19:20 联赛 广西平果 vs 南通支云 解说
-URL: https://tv.iill.top/FB/KetqXo
+Name: 「中甲」19:20 联赛 广西平果 vs 南通支云 解说
+URL: https://tv.iill.top/FB/dlgLrF
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中甲」06/14 19:20 联赛 重庆铜梁龙 vs 大连鲲城 解说
-URL: https://tv.iill.top/FB/gRvTCz
+Name: 「中甲」19:20 联赛 重庆铜梁龙 vs 大连鲲城 解说
+URL: https://tv.iill.top/FB/1xvfzI
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 19:00 联赛 河南 vs 成都蓉城 袁甲 杨晨 李子琪
-URL: https://tv.iill.top/FB/xKtXN0
+Name: 「中超」19:00 联赛 河南 vs 成都蓉城 袁甲 杨晨 李子琪
+URL: https://tv.iill.top/FB/bQNaP9
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 19:20 联赛 河南 vs 成都蓉城 赛场原声
-URL: https://tv.iill.top/FB/NUcPBE
+Name: 「中超」19:20 联赛 河南 vs 成都蓉城 赛场原声
+URL: https://tv.iill.top/FB/dMZlRt
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 19:00 联赛 深圳新鹏城 vs 上海申花 娄一晨 刘越 魏欣怡
-URL: https://tv.iill.top/FB/2OJU4s
+Name: 「中超」19:00 联赛 深圳新鹏城 vs 上海申花 娄一晨 刘越 魏欣怡
+URL: https://tv.iill.top/FB/bU7Gvy
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 19:20 联赛 深圳新鹏城 vs 上海申花 赛场原声
-URL: https://tv.iill.top/FB/29MzwZ
+Name: 「中超」19:20 联赛 深圳新鹏城 vs 上海申花 赛场原声
+URL: https://tv.iill.top/FB/IhxROZ
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 19:30 联赛 天津津门虎 vs 山东泰山 涂远 石庆圣 邵凌霄
-URL: https://tv.iill.top/FB/TcQsWG
+Name: 「中超」19:30 联赛 天津津门虎 vs 山东泰山 涂远 石庆圣 邵凌霄
+URL: https://tv.iill.top/FB/gGqoZ3
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中超」06/14 19:45 联赛 天津津门虎 vs 山东泰山 赛场原声
-URL: https://tv.iill.top/FB/DNAopV
+Name: 「中超」19:45 联赛 天津津门虎 vs 山东泰山 赛场原声
+URL: https://tv.iill.top/FB/7HqVhb
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
