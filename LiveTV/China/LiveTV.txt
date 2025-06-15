@@ -985,260 +985,265 @@ Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「体育」
-Name: 「WTA」06/14 22:00 郑钦文迎战阿尼西莫娃冲决赛 郑钦文迎战阿尼西莫娃冲决赛 房朕
-URL: https://tv.iill.top/Migu/gL1WmH
+Name: 「UFC格斗之夜」06:50 乌斯曼VS巴克利 罗斯出战 乌斯曼VS巴克利 罗斯出战 王琰博 郝俊
+URL: https://tv.iill.top/Migu/KaVhJu
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」06/14 23:30 冲决赛！袁嘉楠对阵石洵瑶 冲决赛！袁嘉楠对阵石洵瑶 周泽昊
-URL: https://tv.iill.top/Migu/Lvh2nL
+Name: 「UFC格斗之夜」06:50 乌斯曼VS巴克利 罗斯出战 乌斯曼VS巴克利 罗斯出战 英文原声
+URL: https://tv.iill.top/Migu/q1qerY
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「UFC格斗之夜」06/15 06:50 乌斯曼VS巴克利 罗斯出战 乌斯曼VS巴克利 罗斯出战 王琰博 郝俊
-URL: https://tv.iill.top/Migu/cP3Du9
+Name: 「马拉松系列赛」07:20 贵阳马拉松、巴林左旗半马 贵阳马拉松、巴林左旗半马 清流播出
+URL: https://tv.iill.top/Migu/Fgs9DL
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「UFC格斗之夜」06/15 06:50 乌斯曼VS巴克利 罗斯出战 乌斯曼VS巴克利 罗斯出战 英文原声
-URL: https://tv.iill.top/Migu/EZpybm
+Name: 「马拉松系列赛」07:20 贵阳马拉松、巴林左旗半马 贵阳马拉松、巴林左旗半马 辽上京·2025巴林左旗半程马拉松
+URL: https://tv.iill.top/Migu/T82iTx
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「马拉松系列赛」06/15 07:20 贵阳马拉松、巴林左旗半马 贵阳马拉松、巴林左旗半马 清流播出
-URL: https://tv.iill.top/Migu/TqC5Wc
+Name: 「全国夏季游泳锦标赛」09:20 女子50米蝶泳等多项预赛 女子50米蝶泳等多项预赛 清流播出
+URL: https://tv.iill.top/Migu/D3XPQO
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「马拉松系列赛」06/15 07:20 贵阳马拉松、巴林左旗半马 贵阳马拉松、巴林左旗半马 辽上京·2025巴林左旗半程马拉松
-URL: https://tv.iill.top/Migu/iHDnKA
+Name: 「KPL」13:40 北京WB vs 西安WE 北京WB vs 西安WE 官方解说
+URL: https://tv.iill.top/Migu/Gas3oJ
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「全国夏季游泳锦标赛」06/15 09:20 女子50米蝶泳等多项预赛 女子50米蝶泳等多项预赛 清流播出
-URL: https://tv.iill.top/Migu/Uv4rYi
+Name: 「超三联赛」13:50 上海争霸赛四分之一决赛 上海争霸赛四分之一决赛 李嘉伟 王冠证
+URL: https://tv.iill.top/Migu/8yBIvm
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「KPL」06/15 13:40 北京WB vs 西安WE 北京WB vs 西安WE 官方解说
-URL: https://tv.iill.top/Migu/cFlUQu
+Name: 「中女超」15:50 联赛 上海农商银行女足VS江苏无锡女足 清流播出
+URL: https://tv.iill.top/Migu/IWLTEn
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「超三联赛」06/15 13:50 上海争霸赛四分之一决赛 上海争霸赛四分之一决赛 李嘉伟 王冠证
-URL: https://tv.iill.top/Migu/cEnQxV
+Name: 「中乙」15:50 联赛 长春喜都vs泰安天贶 解说
+URL: https://tv.iill.top/Migu/fVSs2r
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中女超」06/15 15:50 联赛 上海农商银行女足VS江苏无锡女足 清流播出
-URL: https://tv.iill.top/Migu/hSkuzg
+Name: 「中乙」15:50 联赛 山西崇德荣海vs湖北青年星 解说
+URL: https://tv.iill.top/Migu/cqxi5O
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/15 15:50 联赛 长春喜都vs泰安天贶 解说
-URL: https://tv.iill.top/Migu/K9PniM
+Name: 「中乙」15:50 联赛 北京理工vs杭州临平吴越 解说
+URL: https://tv.iill.top/Migu/vS2R40
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/15 15:50 联赛 山西崇德荣海vs湖北青年星 解说
-URL: https://tv.iill.top/Migu/JW5nLt
+Name: 「江苏城市足球联赛」15:50 徐州队vs镇江队 解说
+URL: https://tv.iill.top/Migu/7DYaXu
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/15 15:50 联赛 北京理工vs杭州临平吴越 解说
-URL: https://tv.iill.top/Migu/K5iWkI
+Name: 「中乙」16:20 联赛 广州蒲公英德桦绿建vs广西蓝航 解说
+URL: https://tv.iill.top/Migu/gpNCXA
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「江苏城市足球联赛」06/15 15:50 徐州队vs镇江队 解说
-URL: https://tv.iill.top/Migu/Wgo5sh
+Name: 「KPL」17:00 杭州LGD.NBW vs 南通Hero久竞 杭州LGD.NBW vs 南通Hero久竞 官方解说
+URL: https://tv.iill.top/Migu/SKSXSG
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/15 16:20 联赛 广州蒲公英德桦绿建vs广西蓝航 解说
-URL: https://tv.iill.top/Migu/zoGBrI
+Name: 「全运会男篮资格赛」17:20 全运会男篮附加赛-河南vs河北 全运会男篮附加赛-河南vs河北 季孟年
+URL: https://tv.iill.top/Migu/5MMurm
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「KPL」06/15 17:00 杭州LGD.NBW vs 南通Hero久竞 杭州LGD.NBW vs 南通Hero久竞 官方解说
-URL: https://tv.iill.top/Migu/rPuXFQ
+Name: 「全运会男篮资格赛」17:20 全运会男篮附加赛-河南vs河北 全运会男篮附加赛-河南vs河北 现场原声
+URL: https://tv.iill.top/Migu/I6fWW1
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「全运会男篮资格赛」06/15 17:20 全运会男篮附加赛-河南vs河北 全运会男篮附加赛-河南vs河北 季孟年
-URL: https://tv.iill.top/Migu/xm07fw
+Name: 「WTA」18:00 斯海尔托亨博斯站决赛 斯海尔托亨博斯站决赛 赛场原声
+URL: https://tv.iill.top/Migu/YIfyMN
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「全运会男篮资格赛」06/15 17:20 全运会男篮附加赛-河南vs河北 全运会男篮附加赛-河南vs河北 现场原声
-URL: https://tv.iill.top/Migu/s82Wau
+Name: 「WTA」18:00 斯海尔托亨博斯站决赛 斯海尔托亨博斯站决赛 英文原声
+URL: https://tv.iill.top/Migu/8rimDH
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」06/15 18:00 斯海尔托亨博斯站决赛 斯海尔托亨博斯站决赛 赛场原声
-URL: https://tv.iill.top/Migu/4p1MSD
+Name: 「中乙」18:50 联赛 山东泰山B队vs兰州陇原竞技 解说
+URL: https://tv.iill.top/Migu/gSUenx
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」06/15 18:00 斯海尔托亨博斯站决赛 斯海尔托亨博斯站决赛 英文原声
-URL: https://tv.iill.top/Migu/vyzCua
+Name: 「超三联赛」18:50 上海争霸赛半决赛及决赛 上海争霸赛半决赛及决赛 李嘉伟 王冠证
+URL: https://tv.iill.top/Migu/HUno11
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」06/15 18:50 联赛 山东泰山B队vs兰州陇原竞技 解说
-URL: https://tv.iill.top/Migu/bq25IN
+Name: 「江苏城市足球联赛」18:50 连云港队vs苏州队 解说
+URL: https://tv.iill.top/Migu/hGyk2T
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「超三联赛」06/15 18:50 上海争霸赛半决赛及决赛 上海争霸赛半决赛及决赛 李嘉伟 王冠证
-URL: https://tv.iill.top/Migu/nIJrPO
+Name: 「国青男篮国际挑战赛」19:25 中国U19男篮vs美国青年队 金哲豪
+URL: https://tv.iill.top/Migu/bNXqne
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「江苏城市足球联赛」06/15 18:50 连云港队vs苏州队 解说
-URL: https://tv.iill.top/Migu/7GrrOH
+Name: 「国青男篮国际挑战赛」19:25 中国U19男篮vs美国青年队 清流播出
+URL: https://tv.iill.top/Migu/hneWFQ
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「国青男篮国际挑战赛」06/15 19:25 中国U19男篮vs美国青年队 金哲豪
-URL: https://tv.iill.top/Migu/eKG2ki
+Name: 「中国女篮系列热身赛」19:10 中国vs波黑 吕程
+URL: https://tv.iill.top/Migu/oZ6dVc
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「国青男篮国际挑战赛」06/15 19:25 中国U19男篮vs美国青年队 清流播出
-URL: https://tv.iill.top/Migu/0iBBWC
+Name: 「中国女篮系列热身赛」19:10 中国vs波黑 清流播出
+URL: https://tv.iill.top/Migu/PXvVJB
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中国女篮系列热身赛」06/15 19:10 中国vs波黑 吕程
-URL: https://tv.iill.top/Migu/yBlsc0
+Name: 「江苏城市足球联赛」19:20 无锡队vs常州队 解说
+URL: https://tv.iill.top/Migu/Ry4JKh
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中国女篮系列热身赛」06/15 19:10 中国vs波黑 清流播出
-URL: https://tv.iill.top/Migu/NIQny4
+Name: 「全国夏季游泳锦标赛」19:20 男子100仰等多项决赛 男子100仰等多项决赛 清流播出
+URL: https://tv.iill.top/Migu/7XI0WB
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「江苏城市足球联赛」06/15 19:20 无锡队vs常州队 解说
-URL: https://tv.iill.top/Migu/F4p7qk
+Name: 「KPL」20:00 重庆狼队 vs 广州TTG 重庆狼队 vs 广州TTG 官方解说
+URL: https://tv.iill.top/Migu/3m468c
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「全国夏季游泳锦标赛」06/15 19:20 男子100仰等多项决赛 男子100仰等多项决赛 清流播出
-URL: https://tv.iill.top/Migu/RuLXaG
+Name: 「WTA」20:00 伦敦站决赛 伦敦站决赛 赛场原声
+URL: https://tv.iill.top/Migu/j0B2XO
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「KPL」06/15 20:00 重庆狼队 vs 广州TTG 重庆狼队 vs 广州TTG 官方解说
-URL: https://tv.iill.top/Migu/jwd2x2
+Name: 「WTA」20:00 伦敦站决赛 伦敦站决赛 英文原声
+URL: https://tv.iill.top/Migu/3Sl1lq
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」06/15 20:00 男女单双打决赛 男女单双打决赛 周泽昊
-URL: https://tv.iill.top/Migu/m3ldRO
+Name: 「WTA」20:30 伦敦站决赛 伦敦站决赛 单文强 邱超
+URL: https://tv.iill.top/Migu/uMX7MB
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」06/15 20:00 男女单双打决赛 男女单双打决赛 1号桌
-URL: https://tv.iill.top/Migu/gM4tYq
+Name: 「WTT」20:00 争冠！温瑞博PK杜达 范姝涵迎战袁嘉楠 争冠！温瑞博PK杜达 范姝涵迎战袁嘉楠 周泽昊
+URL: https://tv.iill.top/Migu/PN4x2J
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」06/15 20:00 男女单双打决赛 男女单双打决赛 英文解说
-URL: https://tv.iill.top/Migu/eWGDOa
+Name: 「WTT」20:00 争冠！温瑞博PK杜达 范姝涵迎战袁嘉楠 争冠！温瑞博PK杜达 范姝涵迎战袁嘉楠 1号桌
+URL: https://tv.iill.top/Migu/mLjuyc
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「全运会男篮资格赛」06/15 19:50 全运会男篮附加赛-湖北vs新疆 全运会男篮附加赛-湖北vs新疆 李天宇
-URL: https://tv.iill.top/Migu/MxSB7q
+Name: 「WTT」20:00 争冠！温瑞博PK杜达 范姝涵迎战袁嘉楠 争冠！温瑞博PK杜达 范姝涵迎战袁嘉楠 英文解说
+URL: https://tv.iill.top/Migu/iZGZdv
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「全运会男篮资格赛」06/15 19:50 全运会男篮附加赛-湖北vs新疆 全运会男篮附加赛-湖北vs新疆 现场原声
-URL: https://tv.iill.top/Migu/XZZzCm
+Name: 「全运会男篮资格赛」19:50 全运会男篮附加赛-湖北vs新疆 全运会男篮附加赛-湖北vs新疆 李天宇
+URL: https://tv.iill.top/Migu/o2YWy4
+Logo: https://epg.iill.top/logo/咪咕.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「全运会男篮资格赛」19:50 全运会男篮附加赛-湖北vs新疆 全运会男篮附加赛-湖北vs新疆 现场原声
+URL: https://tv.iill.top/Migu/hbPJYO
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「足球」
-Name: 「世俱杯」06/15 06:00 小组赛 开罗国民 vs 迈阿密国际 詹俊 张路 孙继海
-URL: https://tv.iill.top/FB/r1TkvK
+Name: 「世俱杯」06:00 小组赛 开罗国民 vs 迈阿密国际 詹俊 张路 孙继海
+URL: https://tv.iill.top/FB/rF8iO0
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 07:25 小组赛 开罗国民 vs 迈阿密国际 孙杨
-URL: https://tv.iill.top/FB/nOQKDV
+Name: 「世俱杯」07:25 小组赛 开罗国民 vs 迈阿密国际 孙杨
+URL: https://tv.iill.top/FB/TL6tyK
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 07:45 小组赛 开罗国民 vs 迈阿密国际 江忠德
-URL: https://tv.iill.top/FB/SR34bv
+Name: 「世俱杯」07:45 小组赛 开罗国民 vs 迈阿密国际 江忠德
+URL: https://tv.iill.top/FB/8mQRU1
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 07:45 小组赛 开罗国民 vs 迈阿密国际 陈渤胄
-URL: https://tv.iill.top/FB/6FFEVm
+Name: 「世俱杯」07:45 小组赛 开罗国民 vs 迈阿密国际 陈渤胄
+URL: https://tv.iill.top/FB/vGUiey
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 07:40 小组赛 开罗国民 vs 迈阿密国际 洪荒
-URL: https://tv.iill.top/FB/mCNaXW
+Name: 「世俱杯」07:40 小组赛 开罗国民 vs 迈阿密国际 洪荒
+URL: https://tv.iill.top/FB/idS94W
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 07:45 小组赛 开罗国民 vs 迈阿密国际 智能文字解说
-URL: https://tv.iill.top/FB/AuwjEk
+Name: 「世俱杯」07:45 小组赛 开罗国民 vs 迈阿密国际 智能文字解说
+URL: https://tv.iill.top/FB/XyJMAE
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 07:45 小组赛 开罗国民 vs 迈阿密国际 赛场原声
-URL: https://tv.iill.top/FB/EIZfyI
+Name: 「世俱杯」07:45 小组赛 开罗国民 vs 迈阿密国际 赛场原声
+URL: https://tv.iill.top/FB/CXcMRi
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 06:00 小组赛 开罗国民 vs 迈阿密国际 詹俊 张路 孙继海
-URL: https://tv.iill.top/FB/2z5OBU
+Name: 「世俱杯」06:00 小组赛 开罗国民 vs 迈阿密国际 詹俊 张路 孙继海
+URL: https://tv.iill.top/FB/AZ2ogi
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中甲」06/15 19:20 联赛 深圳青年人 vs 石家庄功夫 解说
-URL: https://tv.iill.top/FB/Bs2mDh
+Name: 「中甲」19:20 联赛 深圳青年人 vs 石家庄功夫 解说
+URL: https://tv.iill.top/FB/nSyY4d
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中甲」06/15 19:20 联赛 定南赣联 vs 南京城市 解说
-URL: https://tv.iill.top/FB/zUuCiC
+Name: 「中甲」19:20 联赛 定南赣联 vs 南京城市 解说
+URL: https://tv.iill.top/FB/5DbUwc
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中甲」06/15 19:20 联赛 青岛红狮 vs 陕西联合 解说
-URL: https://tv.iill.top/FB/TRzgi4
+Name: 「中甲」19:20 联赛 青岛红狮 vs 陕西联合 解说
+URL: https://tv.iill.top/FB/8p0gm6
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中甲」06/15 19:20 联赛 广东广州豹 vs 苏州东吴 解说
-URL: https://tv.iill.top/FB/jwcp5V
+Name: 「中甲」19:20 联赛 广东广州豹 vs 苏州东吴 解说
+URL: https://tv.iill.top/FB/LVs7E7
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 胡小凡 王多多
-URL: https://tv.iill.top/FB/EqmF0t
+Name: 「世俱杯」23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 胡小凡 王多多
+URL: https://tv.iill.top/FB/iKazRq
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 智能文字解说
-URL: https://tv.iill.top/FB/vWst97
+Name: 「世俱杯」23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 智能文字解说
+URL: https://tv.iill.top/FB/8T3XQ5
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 赛场原声
-URL: https://tv.iill.top/FB/4Yzf5n
+Name: 「世俱杯」23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 赛场原声
+URL: https://tv.iill.top/FB/EXWbu9
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」06/15 23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 胡小凡 王多多
-URL: https://tv.iill.top/FB/Fr6Ein
+Name: 「世俱杯」23:45 小组赛 拜仁慕尼黑 vs 奥克兰城 胡小凡 王多多
+URL: https://tv.iill.top/FB/efvBlb
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
