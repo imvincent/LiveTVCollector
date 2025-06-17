@@ -719,47 +719,52 @@ Source: https://tv.iill.top/m3u/Gather
 
 Group: •咪咕「NBA」
 Name: 「NBA」07:45 总决赛 步行者VS雷霆 杨健 刘晓宇 马健
-URL: https://tv.iill.top/NBA/PjxJ0y
+URL: https://tv.iill.top/NBA/UBAJkz
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:20 总决赛 步行者VS雷霆 蔡凯臣 陈正昊
-URL: https://tv.iill.top/NBA/n6uM7l
+URL: https://tv.iill.top/NBA/NZZAxP
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 步行者VS雷霆 仔涛
-URL: https://tv.iill.top/NBA/cjT0Ks
+URL: https://tv.iill.top/NBA/rlwMUd
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 步行者VS雷霆 罗森
-URL: https://tv.iill.top/NBA/J5TigG
+URL: https://tv.iill.top/NBA/tF9cUl
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 步行者VS雷霆 英文原声
-URL: https://tv.iill.top/NBA/hoCnxE
+URL: https://tv.iill.top/NBA/5WIHg2
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 步行者VS雷霆 莫俊祺
-URL: https://tv.iill.top/NBA/lsHAen
+URL: https://tv.iill.top/NBA/8xsjjV
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 步行者VS雷霆 洪荒
-URL: https://tv.iill.top/NBA/CF6e8n
+URL: https://tv.iill.top/NBA/6qU5UU
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 步行者VS雷霆 球场十倍镜
-URL: https://tv.iill.top/NBA/zAegoR
+URL: https://tv.iill.top/NBA/DzUYgx
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 步行者VS雷霆 VIP前排视角
-URL: https://tv.iill.top/NBA/Ke4nVE
+URL: https://tv.iill.top/NBA/AdH7AM
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」08:25 总决赛 步行者VS雷霆 英文原声审片前
+URL: https://tv.iill.top/NBA/4d6MgI
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
@@ -1033,164 +1038,154 @@ Source: https://tv.iill.top/m3u/Gather
 
 Group: •咪咕「体育」
 Name: 「全国夏季游泳锦标赛」09:20 男子100自等多项预赛 男子100自等多项预赛 清流播出
-URL: https://tv.iill.top/Migu/kPTVnF
+URL: https://tv.iill.top/Migu/bnCMTr
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」16:00 徐奕率先登场 徐海东冲击正赛资格 徐奕率先登场 徐海东冲击正赛资格 1号桌
-URL: https://tv.iill.top/Migu/ry0KWo
+URL: https://tv.iill.top/Migu/wxPtyd
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」16:00 徐奕率先登场 徐海东冲击正赛资格 徐奕率先登场 徐海东冲击正赛资格 2号桌
-URL: https://tv.iill.top/Migu/UNnAM5
+URL: https://tv.iill.top/Migu/hszKEO
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」16:00 徐奕率先登场 徐海东冲击正赛资格 徐奕率先登场 徐海东冲击正赛资格 3号桌
-URL: https://tv.iill.top/Migu/hAHcxm
+URL: https://tv.iill.top/Migu/1M6LWw
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」16:00 徐奕率先登场 徐海东冲击正赛资格 徐奕率先登场 徐海东冲击正赛资格 4号桌
-URL: https://tv.iill.top/Migu/b6C3Cg
+URL: https://tv.iill.top/Migu/BCJV6S
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」17:30 柏林站第二日 柏林站第二日 赛场原声
-URL: https://tv.iill.top/Migu/ueZlTX
+Name: 「WTA」17:30 郑钦文首轮迎战莱巴金娜 郑钦文首轮迎战莱巴金娜 赛场原声
+URL: https://tv.iill.top/Migu/Hcflvp
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」17:30 柏林站第二日 柏林站第二日 英文原声
-URL: https://tv.iill.top/Migu/RmMUgM
+Name: 「WTA」17:30 郑钦文首轮迎战莱巴金娜 郑钦文首轮迎战莱巴金娜 英文原声
+URL: https://tv.iill.top/Migu/tGSzqt
+Logo: https://epg.iill.top/logo/咪咕.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「WTA」23:30 郑钦文首轮迎战莱巴金娜 郑钦文首轮迎战莱巴金娜 李宁
+URL: https://tv.iill.top/Migu/zegpcl
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「全运会男篮资格赛」17:20 全运会男篮附加赛-新疆vs河北 全运会男篮附加赛-新疆vs河北 连睿
-URL: https://tv.iill.top/Migu/4rSVUo
+URL: https://tv.iill.top/Migu/7r7PEr
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「全运会男篮资格赛」17:20 全运会男篮附加赛-新疆vs河北 全运会男篮附加赛-新疆vs河北 现场原声
-URL: https://tv.iill.top/Migu/JAbJjS
+URL: https://tv.iill.top/Migu/BRuAF8
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「JCK」18:55 梁娜出战！轻量级冠军艾力迎战萨丁尼亚 梁娜出战！轻量级冠军艾力迎战萨丁尼亚 官方解说
-URL: https://tv.iill.top/Migu/WR7SGc
+URL: https://tv.iill.top/Migu/vsLwoV
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「JCK」18:55 梁娜出战！轻量级冠军艾力迎战萨丁尼亚 梁娜出战！轻量级冠军艾力迎战萨丁尼亚 无解说
-URL: https://tv.iill.top/Migu/9hdxs8
+URL: https://tv.iill.top/Migu/E36YqO
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「全国夏季游泳锦标赛」19:20 男子200混等多项决赛 男子200混等多项决赛 清流播出
-URL: https://tv.iill.top/Migu/zWmYRD
+URL: https://tv.iill.top/Migu/CRjRNu
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「全运会男篮资格赛」19:50 全运会男篮附加赛-吉林vs河南 全运会男篮附加赛-吉林vs河南 姜帆
-URL: https://tv.iill.top/Migu/8YIn1b
+URL: https://tv.iill.top/Migu/uDV87E
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「全运会男篮资格赛」19:50 全运会男篮附加赛-吉林vs河南 全运会男篮附加赛-吉林vs河南 现场原声
-URL: https://tv.iill.top/Migu/vVEHz7
+URL: https://tv.iill.top/Migu/KkM4oj
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「足球」
 Name: 「世俱杯」02:00 小组赛 切尔西 vs 洛杉矶 颜强 徐阳 林梦鸽
-URL: https://tv.iill.top/FB/pJVCLw
+URL: https://tv.iill.top/FB/Xr1jn3
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」02:45 小组赛 切尔西 vs 洛杉矶 赛场原声
-URL: https://tv.iill.top/FB/qD3wXE
+URL: https://tv.iill.top/FB/Inm8iA
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」02:00 小组赛 切尔西 vs 洛杉矶 颜强 徐阳 林梦鸽
-URL: https://tv.iill.top/FB/GOoRZ7
+URL: https://tv.iill.top/FB/fpSvcN
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」02:45 小组赛 切尔西 vs 洛杉矶 智能文字解说
-URL: https://tv.iill.top/FB/Uq6T8r
+URL: https://tv.iill.top/FB/9ldEns
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」05:45 小组赛 博卡青年 vs 本菲卡 盛斌
-URL: https://tv.iill.top/FB/jef0j5
-Logo: https://epg.iill.top/logo/足球.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
-Name: 「世俱杯」05:45 小组赛 博卡青年 vs 本菲卡 智能文字解说
-URL: https://tv.iill.top/FB/sgCIi9
+URL: https://tv.iill.top/FB/xi27iZ
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」05:45 小组赛 博卡青年 vs 本菲卡 赛场原声
-URL: https://tv.iill.top/FB/fs5b1F
+URL: https://tv.iill.top/FB/qF023D
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」05:45 小组赛 博卡青年 vs 本菲卡 盛斌
-URL: https://tv.iill.top/FB/V4NX8t
+URL: https://tv.iill.top/FB/AW5SJ5
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」08:45 小组赛 弗拉门戈 vs 突尼斯希望 涂远
-URL: https://tv.iill.top/FB/qFPrfP
-Logo: https://epg.iill.top/logo/足球.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
-Name: 「世俱杯」08:45 小组赛 弗拉门戈 vs 突尼斯希望 智能文字解说
-URL: https://tv.iill.top/FB/4ZOJ2K
+URL: https://tv.iill.top/FB/Y2q1Eo
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」08:45 小组赛 弗拉门戈 vs 突尼斯希望 赛场原声
-URL: https://tv.iill.top/FB/PxPDmM
+URL: https://tv.iill.top/FB/0bA7MX
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」08:45 小组赛 弗拉门戈 vs 突尼斯希望 涂远
-URL: https://tv.iill.top/FB/STxtoY
+URL: https://tv.iill.top/FB/WEjpA7
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「中超」19:00 联赛 北京国安 vs 青岛西海岸 李欣 徐阳
-URL: https://tv.iill.top/FB/7LSG0Z
+URL: https://tv.iill.top/FB/z7T9XO
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「中超」19:20 联赛 北京国安 vs 青岛西海岸 赛场原声
-URL: https://tv.iill.top/FB/sKcSs4
+URL: https://tv.iill.top/FB/gcpbpo
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」23:45 小组赛 弗卢米嫩塞 vs 多特蒙德 沈云怡 秦游夏
-URL: https://tv.iill.top/FB/5yQPjG
-Logo: https://epg.iill.top/logo/足球.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
-Name: 「世俱杯」23:45 小组赛 弗卢米嫩塞 vs 多特蒙德 智能文字解说
-URL: https://tv.iill.top/FB/HLYdhq
+URL: https://tv.iill.top/FB/iGVLnL
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」23:45 小组赛 弗卢米嫩塞 vs 多特蒙德 赛场原声
-URL: https://tv.iill.top/FB/EGbjAQ
+URL: https://tv.iill.top/FB/AdCE10
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」23:45 小组赛 弗卢米嫩塞 vs 多特蒙德 沈云怡 秦游夏
-URL: https://tv.iill.top/FB/tudKnE
+URL: https://tv.iill.top/FB/QaG29X
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
