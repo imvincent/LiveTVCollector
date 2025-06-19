@@ -718,8 +718,53 @@ Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「NBA」
-Name: 「NBA」09:55 《周刊》总决赛G6特别节目 《周刊》总决赛G6特别节目 佳依 殳海 王晓晨
-URL: https://tv.iill.top/NBA/x2fNGl
+Name: 「NBA」06/20 07:45 总决赛 雷霆VS步行者 庄宁宇 孙铭徽 张兆旭
+URL: https://tv.iill.top/NBA/drzGRO
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」06/20 08:20 总决赛 雷霆VS步行者 蔡凯臣 陈正昊
+URL: https://tv.iill.top/NBA/3sguN8
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」06/20 08:25 总决赛 雷霆VS步行者 罗森
+URL: https://tv.iill.top/NBA/fmKnC9
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」06/20 08:25 总决赛 雷霆VS步行者 仔涛
+URL: https://tv.iill.top/NBA/eSsmsD
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」06/20 08:25 总决赛 雷霆VS步行者 莫俊祺
+URL: https://tv.iill.top/NBA/8rg5zJ
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」06/20 08:25 总决赛 雷霆VS步行者 洪荒
+URL: https://tv.iill.top/NBA/n6VfCR
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」06/20 08:25 总决赛 雷霆VS步行者 英文原声
+URL: https://tv.iill.top/NBA/2LAlvg
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」06/20 08:25 总决赛 雷霆VS步行者 VIP前排视角
+URL: https://tv.iill.top/NBA/JieSx9
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」06/20 08:25 总决赛 雷霆VS步行者 球场十倍镜
+URL: https://tv.iill.top/NBA/8bAi2s
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」06/20 08:30 总决赛 雷霆VS步行者 球星点亮
+URL: https://tv.iill.top/NBA/vR1zyj
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
@@ -992,155 +1037,170 @@ Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「体育」
-Name: 「全国夏季游泳锦标赛」09:20 女子50仰等多项预赛 女子50仰等多项预赛 清流播出
-URL: https://tv.iill.top/Migu/0zo44P
+Name: 「KPL」06/20 13:40 深圳DYG vs 上海EDG.M 深圳DYG vs 上海EDG.M 官方解说
+URL: https://tv.iill.top/Migu/p4dfqc
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「KPL」13:40 长沙TES.A vs 上海RNG.M 长沙TES.A vs 上海RNG.M 官方解说
-URL: https://tv.iill.top/Migu/LZE0GO
+Name: 「KPL」06/20 17:00 广州TTG vs 济南RW侠 广州TTG vs 济南RW侠 官方解说
+URL: https://tv.iill.top/Migu/Ng8FtC
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「超三联赛」13:55 3WL武汉赛区第1站Day2下午场 3WL武汉赛区第1站Day2下午场 清流播出
-URL: https://tv.iill.top/Migu/EgSkbj
+Name: 「WTT」06/20 17:00 双打1/4决赛及半决赛、男女单打1/16决赛 双打1/4决赛及半决赛、男女单打1/16决赛 1号桌
+URL: https://tv.iill.top/Migu/gmleg7
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「KPL」17:00 佛山DRG vs 西安WE 佛山DRG vs 西安WE 官方解说
-URL: https://tv.iill.top/Migu/v59AK8
+Name: 「WTT」06/20 17:00 双打1/4决赛及半决赛、男女单打1/16决赛 双打1/4决赛及半决赛、男女单打1/16决赛 2号桌
+URL: https://tv.iill.top/Migu/CyKqTK
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」17:00 黄友政/陈熠迎战张本兄妹 周启豪出战 黄友政/陈熠迎战张本兄妹 周启豪出战 1号桌
-URL: https://tv.iill.top/Migu/xMqEX7
+Name: 「WTT」06/20 17:00 双打1/4决赛及半决赛、男女单打1/16决赛 双打1/4决赛及半决赛、男女单打1/16决赛 3号桌
+URL: https://tv.iill.top/Migu/1xskC7
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」17:00 黄友政/陈熠迎战张本兄妹 周启豪出战 黄友政/陈熠迎战张本兄妹 周启豪出战 2号桌
-URL: https://tv.iill.top/Migu/Ypc99D
+Name: 「WTT」06/20 17:00 双打1/4决赛及半决赛、男女单打1/16决赛 双打1/4决赛及半决赛、男女单打1/16决赛 4号桌
+URL: https://tv.iill.top/Migu/DSsdPn
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」17:00 黄友政/陈熠迎战张本兄妹 周启豪出战 黄友政/陈熠迎战张本兄妹 周启豪出战 3号桌
-URL: https://tv.iill.top/Migu/Ti7zHn
+Name: 「WTT」06/20 17:00 双打1/4决赛及半决赛、男女单打1/16决赛 双打1/4决赛及半决赛、男女单打1/16决赛 1号桌英文解说
+URL: https://tv.iill.top/Migu/1L9kl7
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」17:00 黄友政/陈熠迎战张本兄妹 周启豪出战 黄友政/陈熠迎战张本兄妹 周启豪出战 4号桌
-URL: https://tv.iill.top/Migu/UPozPv
+Name: 「WTT」06/20 17:00 双打1/4决赛及半决赛、男女单打1/16决赛 双打1/4决赛及半决赛、男女单打1/16决赛 周冠达 小马哥
+URL: https://tv.iill.top/Migu/RWRwtd
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」17:00 黄友政/陈熠迎战张本兄妹 周启豪出战 黄友政/陈熠迎战张本兄妹 周启豪出战 1号桌英文解说
-URL: https://tv.iill.top/Migu/342fvS
+Name: 「WTA」06/20 17:30 柏林站第五日 柏林站第五日 赛场原声
+URL: https://tv.iill.top/Migu/oIUBIo
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTT」17:00 黄友政/陈熠迎战张本兄妹 周启豪出战 黄友政/陈熠迎战张本兄妹 周启豪出战 周冠达 小马哥
-URL: https://tv.iill.top/Migu/7lSCl8
+Name: 「WTA」06/20 17:30 柏林站第五日 柏林站第五日 英文原声
+URL: https://tv.iill.top/Migu/7xsTwn
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」17:30 王欣瑜PK高芙 莱巴金娜出战 王欣瑜PK高芙 莱巴金娜出战 赛场原声
-URL: https://tv.iill.top/Migu/SgXuV8
+Name: 「WTA」06/20 18:00 诺丁汉站1/4决赛 诺丁汉站1/4决赛 赛场原声
+URL: https://tv.iill.top/Migu/sxFaoP
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」17:30 王欣瑜PK高芙 莱巴金娜出战 王欣瑜PK高芙 莱巴金娜出战 英文原声
-URL: https://tv.iill.top/Migu/20O7ZK
+Name: 「WTA」06/20 18:00 诺丁汉站1/4决赛 诺丁汉站1/4决赛 英文原声
+URL: https://tv.iill.top/Migu/u3Lx7L
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」18:30 陶森PK布林科娃 博尔特出战 陶森PK布林科娃 博尔特出战 赛场原声
-URL: https://tv.iill.top/Migu/GrQA9w
+Name: 「中国女篮系列热身赛」06/20 19:20 中国vs日本 吕程 赵爽
+URL: https://tv.iill.top/Migu/cBfs6R
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」18:30 陶森PK布林科娃 博尔特出战 陶森PK布林科娃 博尔特出战 英文原声
-URL: https://tv.iill.top/Migu/nGGLvP
+Name: 「中国女篮系列热身赛」06/20 19:20 中国vs日本 清流播出
+URL: https://tv.iill.top/Migu/YMgeDV
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「超三联赛」18:55 3WL武汉赛区第1站Day2晚间场 3WL武汉赛区第1站Day2晚间场 清流播出
-URL: https://tv.iill.top/Migu/gQNHPg
+Name: 「足协杯」06/20 19:20 第四轮比赛 山东泰山 vs 成都蓉城 袁甲 徐阳 李子琪
+URL: https://tv.iill.top/Migu/WE7w2e
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「全国夏季游泳锦标赛」19:20 男子50自等多项决赛 男子50自等多项决赛 清流播出
-URL: https://tv.iill.top/Migu/m1PJDE
+Name: 「足协杯」06/20 19:20 第四轮比赛 山东泰山 vs 成都蓉城 赛场原声
+URL: https://tv.iill.top/Migu/3V6yZt
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中乙」18:50 联赛 贵州筑城竞技vs武汉三镇B队 清流
-URL: https://tv.iill.top/Migu/hr4NTh
+Name: 「KPL」06/20 20:00 成都AG超玩会 vs 桐乡情久 成都AG超玩会 vs 桐乡情久 官方解说
+URL: https://tv.iill.top/Migu/Li8sA3
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「KPL」20:00 北京WB vs 苏州KSG 北京WB vs 苏州KSG 官方解说
-URL: https://tv.iill.top/Migu/6rLdxM
-Logo: https://epg.iill.top/logo/咪咕.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
-Name: 「国青女篮国际挑战赛」20:25 中国U19女篮vs拉脱维亚U22选拔队 清流播出
-URL: https://tv.iill.top/Migu/v95egE
+Name: 「国青女篮国际挑战赛」06/20 20:25 中国U19女篮vs塞尔维亚NIBAK俱乐部 清流播出
+URL: https://tv.iill.top/Migu/mW1Jvw
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「足球」
-Name: 「世俱杯」02:00 小组赛 皇家马德里 vs 利雅得新月 娄一晨 刘越 魏欣怡
-URL: https://tv.iill.top/FB/cKYHm2
+Name: 「世俱杯」06/19 23:45 小组赛 帕尔梅拉斯 vs 开罗国民 鲁靖明
+URL: https://tv.iill.top/FB/87bufm
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」02:45 小组赛 皇家马德里 vs 利雅得新月 赛场原声
-URL: https://tv.iill.top/FB/5blw1l
+Name: 「世俱杯」06/19 23:45 小组赛 帕尔梅拉斯 vs 开罗国民 赛场原声
+URL: https://tv.iill.top/FB/6qOcLg
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」02:00 小组赛 皇家马德里 vs 利雅得新月 娄一晨 刘越 魏欣怡
-URL: https://tv.iill.top/FB/oORvpN
+Name: 「世俱杯」06/19 23:45 小组赛 帕尔梅拉斯 vs 开罗国民 鲁靖明
+URL: https://tv.iill.top/FB/QJfbFe
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」05:45 小组赛 帕丘卡 vs 萨尔茨堡红牛 乔迁
-URL: https://tv.iill.top/FB/vid9Dg
+Name: 「世俱杯」06/20 02:45 小组赛 迈阿密国际 vs 波尔图 胡小凡 王多多
+URL: https://tv.iill.top/FB/BIE6JV
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」05:45 小组赛 帕丘卡 vs 萨尔茨堡红牛 赛场原声
-URL: https://tv.iill.top/FB/xSXvyC
+Name: 「世俱杯」06/20 02:45 小组赛 迈阿密国际 vs 波尔图 赛场原声
+URL: https://tv.iill.top/FB/XosOFJ
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」08:45 小组赛 艾因 vs 尤文图斯 石庆圣 李彦
-URL: https://tv.iill.top/FB/SmVLnr
+Name: 「世俱杯」06/20 02:45 小组赛 迈阿密国际 vs 波尔图 胡小凡 王多多
+URL: https://tv.iill.top/FB/wB8RUw
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」08:45 小组赛 艾因 vs 尤文图斯 赛场原声
-URL: https://tv.iill.top/FB/pPvFcj
+Name: 「世俱杯」06/20 05:45 小组赛 西雅图海湾人 vs 马德里竞技 梁祥宇 李欣
+URL: https://tv.iill.top/FB/XTqGpy
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」08:45 小组赛 艾因 vs 尤文图斯 石庆圣 李彦
-URL: https://tv.iill.top/FB/PLgrsJ
+Name: 「世俱杯」06/20 05:45 小组赛 西雅图海湾人 vs 马德里竞技 赛场原声
+URL: https://tv.iill.top/FB/n3ZKKN
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」23:45 小组赛 帕尔梅拉斯 vs 开罗国民 鲁靖明
-URL: https://tv.iill.top/FB/SAyMaq
+Name: 「世俱杯」06/20 05:45 小组赛 西雅图海湾人 vs 马德里竞技 梁祥宇 李欣
+URL: https://tv.iill.top/FB/iS8Jqn
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」23:45 小组赛 帕尔梅拉斯 vs 开罗国民 赛场原声
-URL: https://tv.iill.top/FB/eNHCBw
+Name: 「世俱杯」06/20 08:45 小组赛 巴黎圣日耳曼 vs 博塔福戈 鹿中原 王宇
+URL: https://tv.iill.top/FB/fLC7a3
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「世俱杯」23:45 小组赛 帕尔梅拉斯 vs 开罗国民 鲁靖明
-URL: https://tv.iill.top/FB/a1niIc
+Name: 「世俱杯」06/20 08:45 小组赛 巴黎圣日耳曼 vs 博塔福戈 赛场原声
+URL: https://tv.iill.top/FB/lxcLRQ
+Logo: https://epg.iill.top/logo/足球.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「世俱杯」06/20 08:45 小组赛 巴黎圣日耳曼 vs 博塔福戈 鹿中原 王宇
+URL: https://tv.iill.top/FB/2gYZ5M
+Logo: https://epg.iill.top/logo/足球.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「世俱杯」06/20 23:45 小组赛 本菲卡 vs 奥克兰城 刘腾
+URL: https://tv.iill.top/FB/MtqjMP
+Logo: https://epg.iill.top/logo/足球.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「世俱杯」06/20 23:45 小组赛 本菲卡 vs 奥克兰城 赛场原声
+URL: https://tv.iill.top/FB/CqKCyQ
+Logo: https://epg.iill.top/logo/足球.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「世俱杯」06/20 23:45 小组赛 本菲卡 vs 奥克兰城 刘腾
+URL: https://tv.iill.top/FB/LBKaRO
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
