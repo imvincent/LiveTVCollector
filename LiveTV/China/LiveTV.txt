@@ -476,11 +476,6 @@ URL: https://tv.iill.top/litv/4gtv-4gtv083
 Logo: https://assets.livednow.com/logo/Mezzo-Live.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: My Cinema Europe HD 我的歐洲電影
-URL: https://tv.iill.top/4gtv/176
-Logo: https://assets.livednow.com/logo/My-Cinema-Europe-HD-我的歐洲電影.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
 Name: Nick Jr. 兒童頻道
 URL: https://tv.iill.top/4gtv/219
 Logo: https://assets.livednow.com/logo/Nick-Jr..png
@@ -489,11 +484,6 @@ Source: https://tv.iill.top/m3u/Gather
 Name: Nickelodeon
 URL: https://tv.iill.top/4gtv/185
 Logo: https://assets.livednow.com/logo/Nickelodeon.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
-Name: Pet Club TV
-URL: https://tv.iill.top/4gtv/182
-Logo: https://assets.livednow.com/logo/Pet-Club-TV.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: Rock Action
@@ -521,11 +511,6 @@ URL: https://tv.iill.top/4gtv/178
 Logo: https://assets.livednow.com/logo/TV5MONDE-Style.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: TechStorm
-URL: https://tv.iill.top/4gtv/181
-Logo: https://assets.livednow.com/logo/TechStorm.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
 Name: Trace Urban
 URL: https://tv.iill.top/litv/4gtv-4gtv082
 Logo: https://assets.livednow.com/logo/Trace-Urban.png
@@ -541,18 +526,13 @@ URL: https://tv.iill.top/litv/litv-ftv03
 Logo: https://assets.livednow.com/logo/VOA-美國之音.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: i-Fun 動漫
-URL: https://tv.iill.top/litv/litv-ftv15
-Logo: https://assets.livednow.com/logo/i-Fun-動漫台.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
 Name: 幸福空間居家
 URL: https://tv.iill.top/4gtv/168
 Logo: https://assets.livednow.com/logo/幸福空間居家台.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 影迷數位紀實
-URL: https://tv.iill.top/4gtv/212
+URL: https://tv.iill.top/litv/litv-ftv15
 Logo: https://assets.livednow.com/logo/影迷數位紀實台.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
@@ -561,24 +541,14 @@ URL: https://tv.iill.top/litv/4gtv-4gtv011
 Logo: https://assets.livednow.com/logo/影迷數位電影台.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 戲劇免費看 1
+Name: 戲劇免費看
 URL: https://tv.iill.top/4gtv/270
 Logo: https://assets.livednow.com/logo/戲劇免費看-1台.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 戲劇免費看 2
-URL: https://tv.iill.top/4gtv/244
-Logo: https://assets.livednow.com/logo/戲劇免費看-2台.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
-Name: 電影免費看 2
-URL: https://tv.iill.top/4gtv/245
-Logo: https://assets.livednow.com/logo/電影免費看-2台.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
-Name: 半島國際新聞
+Name: MCE 我的歐洲電影
 URL: https://tv.iill.top/litv/litv-ftv10
-Logo: https://assets.livednow.com/logo/半島國際新聞台.png
+Logo: https://epg.iill.top/logo/MCE.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 中視菁采
@@ -594,11 +564,6 @@ Source: https://tv.iill.top/m3u/Gather
 Name: 人間衛視
 URL: https://tv.iill.top/4gtv/210
 Logo: https://assets.livednow.com/logo/人間衛視.png
-Source: https://tv.iill.top/m3u/Gather
---------------------------------------------------
-Name: 兒童卡通
-URL: https://tv.iill.top/4gtv/269
-Logo: https://assets.livednow.com/logo/兒童卡通台.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 滾動力 Rollor
@@ -719,52 +684,57 @@ Source: https://tv.iill.top/m3u/Gather
 
 Group: •咪咕「NBA」
 Name: 「NBA」07:45 总决赛 雷霆VS步行者 庄宁宇 孙铭徽 张兆旭
-URL: https://tv.iill.top/NBA/EldG3t
+URL: https://tv.iill.top/NBA/XLtjvG
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:20 总决赛 雷霆VS步行者 蔡凯臣 陈正昊
-URL: https://tv.iill.top/NBA/SgLBwg
+URL: https://tv.iill.top/NBA/IKjuhF
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 雷霆VS步行者 罗森
-URL: https://tv.iill.top/NBA/hDK4Ne
+URL: https://tv.iill.top/NBA/Hfw47Z
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 雷霆VS步行者 仔涛
-URL: https://tv.iill.top/NBA/Lx2BhB
+URL: https://tv.iill.top/NBA/8LXjDp
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 雷霆VS步行者 莫俊祺
-URL: https://tv.iill.top/NBA/PgIVjw
+URL: https://tv.iill.top/NBA/ZnBq18
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 雷霆VS步行者 洪荒
-URL: https://tv.iill.top/NBA/p0vTnq
+URL: https://tv.iill.top/NBA/E8xZ6p
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 雷霆VS步行者 英文原声
-URL: https://tv.iill.top/NBA/nT4Hea
+URL: https://tv.iill.top/NBA/33dAbK
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 雷霆VS步行者 VIP前排视角
-URL: https://tv.iill.top/NBA/hFx0Wg
+URL: https://tv.iill.top/NBA/i8rVD2
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:25 总决赛 雷霆VS步行者 球场十倍镜
-URL: https://tv.iill.top/NBA/zc0KEg
+URL: https://tv.iill.top/NBA/VysfAi
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「NBA」08:30 总决赛 雷霆VS步行者 球星点亮
-URL: https://tv.iill.top/NBA/hDWic0
+URL: https://tv.iill.top/NBA/qh9Zxv
+Logo: https://epg.iill.top/logo/NBA.png
+Source: https://tv.iill.top/m3u/Gather
+--------------------------------------------------
+Name: 「NBA」08:25 总决赛 雷霆VS步行者 英文原声审片前
+URL: https://tv.iill.top/NBA/eptyJ6
 Logo: https://epg.iill.top/logo/NBA.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
@@ -1038,154 +1008,154 @@ Source: https://tv.iill.top/m3u/Gather
 
 Group: •咪咕「体育」
 Name: 「KPL」13:40 深圳DYG vs 上海EDG.M 深圳DYG vs 上海EDG.M 官方解说
-URL: https://tv.iill.top/Migu/Q6Ovb9
+URL: https://tv.iill.top/Migu/7OPEZI
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「KPL」17:00 广州TTG vs 济南RW侠 广州TTG vs 济南RW侠 官方解说
-URL: https://tv.iill.top/Migu/vdGP78
+URL: https://tv.iill.top/Migu/ae5uRY
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」17:00 林申组合迎战张本兄妹 向鹏出战 林申组合迎战张本兄妹 向鹏出战 1号桌
-URL: https://tv.iill.top/Migu/Qyfbqb
+URL: https://tv.iill.top/Migu/fhmwgG
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」17:00 林申组合迎战张本兄妹 向鹏出战 林申组合迎战张本兄妹 向鹏出战 2号桌
-URL: https://tv.iill.top/Migu/9pkQxd
+URL: https://tv.iill.top/Migu/ksCjDF
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」17:00 林申组合迎战张本兄妹 向鹏出战 林申组合迎战张本兄妹 向鹏出战 3号桌
-URL: https://tv.iill.top/Migu/lRuIzy
+URL: https://tv.iill.top/Migu/emykvX
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」17:00 林申组合迎战张本兄妹 向鹏出战 林申组合迎战张本兄妹 向鹏出战 4号桌
-URL: https://tv.iill.top/Migu/l25oDH
+URL: https://tv.iill.top/Migu/Ah08Bl
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」17:00 林申组合迎战张本兄妹 向鹏出战 林申组合迎战张本兄妹 向鹏出战 1号桌英文解说
-URL: https://tv.iill.top/Migu/Avk2av
+URL: https://tv.iill.top/Migu/bxihMd
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「WTT」17:00 林申组合迎战张本兄妹 向鹏出战 林申组合迎战张本兄妹 向鹏出战 周冠达 小马哥
-URL: https://tv.iill.top/Migu/yoI83g
+URL: https://tv.iill.top/Migu/ZEEcQK
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」17:30 柏林站第五日 柏林站第五日 赛场原声
-URL: https://tv.iill.top/Migu/Ole2f2
+Name: 「WTA」17:30 萨巴伦卡PK莱巴金娜 王欣瑜冲半决赛 萨巴伦卡PK莱巴金娜 王欣瑜冲半决赛 赛场原声
+URL: https://tv.iill.top/Migu/ubevDY
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」17:30 柏林站第五日 柏林站第五日 英文原声
-URL: https://tv.iill.top/Migu/un2XIh
+Name: 「WTA」17:30 萨巴伦卡PK莱巴金娜 王欣瑜冲半决赛 萨巴伦卡PK莱巴金娜 王欣瑜冲半决赛 英文原声
+URL: https://tv.iill.top/Migu/wk6tiv
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」18:00 诺丁汉站1/4决赛 诺丁汉站1/4决赛 赛场原声
-URL: https://tv.iill.top/Migu/rVarna
+Name: 「WTA」18:00 陶森冲半决赛 凯斯勒PK博尔特 陶森冲半决赛 凯斯勒PK博尔特 赛场原声
+URL: https://tv.iill.top/Migu/hAVEpu
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「WTA」18:00 诺丁汉站1/4决赛 诺丁汉站1/4决赛 英文原声
-URL: https://tv.iill.top/Migu/OF9fnX
+Name: 「WTA」18:00 陶森冲半决赛 凯斯勒PK博尔特 陶森冲半决赛 凯斯勒PK博尔特 英文原声
+URL: https://tv.iill.top/Migu/deWNpv
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中国女篮系列热身赛」19:20 中国vs日本 吕程 赵爽
-URL: https://tv.iill.top/Migu/bqNknJ
+Name: 「中国女篮系列热身赛」19:15 中国vs日本 吕程 赵爽
+URL: https://tv.iill.top/Migu/ybOQis
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
-Name: 「中国女篮系列热身赛」19:20 中国vs日本 清流播出
-URL: https://tv.iill.top/Migu/FgBOIR
+Name: 「中国女篮系列热身赛」19:15 中国vs日本 清流播出
+URL: https://tv.iill.top/Migu/OETmi4
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「足协杯」19:20 第四轮比赛 山东泰山 vs 成都蓉城 袁甲 徐阳 李子琪
-URL: https://tv.iill.top/Migu/iNNIPE
+URL: https://tv.iill.top/Migu/02zWW9
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「足协杯」19:20 第四轮比赛 山东泰山 vs 成都蓉城 赛场原声
-URL: https://tv.iill.top/Migu/b9PGGB
+URL: https://tv.iill.top/Migu/bhKfFY
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「KPL」20:00 成都AG超玩会 vs 桐乡情久 成都AG超玩会 vs 桐乡情久 官方解说
-URL: https://tv.iill.top/Migu/UcMyrn
+URL: https://tv.iill.top/Migu/tGfMnk
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「国青女篮国际挑战赛」20:25 中国U19女篮vs塞尔维亚NIBAK俱乐部 清流播出
-URL: https://tv.iill.top/Migu/X9qJ2n
+URL: https://tv.iill.top/Migu/j37HE8
 Logo: https://epg.iill.top/logo/咪咕.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 
 Group: •咪咕「足球」
 Name: 「世俱杯」02:45 小组赛 迈阿密国际 vs 波尔图 胡小凡 王多多
-URL: https://tv.iill.top/FB/kTo6fT
+URL: https://tv.iill.top/FB/d5SSo1
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」02:45 小组赛 迈阿密国际 vs 波尔图 赛场原声
-URL: https://tv.iill.top/FB/PSW7HS
+URL: https://tv.iill.top/FB/t1mjoY
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」02:45 小组赛 迈阿密国际 vs 波尔图 胡小凡 王多多
-URL: https://tv.iill.top/FB/oipPiV
+URL: https://tv.iill.top/FB/gbjtO9
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」05:45 小组赛 西雅图海湾人 vs 马德里竞技 梁祥宇 李欣
-URL: https://tv.iill.top/FB/EV2Eq8
+URL: https://tv.iill.top/FB/cSYXeM
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」05:45 小组赛 西雅图海湾人 vs 马德里竞技 赛场原声
-URL: https://tv.iill.top/FB/OEpRre
+URL: https://tv.iill.top/FB/LjKH9N
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」05:45 小组赛 西雅图海湾人 vs 马德里竞技 梁祥宇 李欣
-URL: https://tv.iill.top/FB/rvphOI
+URL: https://tv.iill.top/FB/n0dhlo
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」08:45 小组赛 巴黎圣日耳曼 vs 博塔福戈 鹿中原 王宇
-URL: https://tv.iill.top/FB/sDGi1P
+URL: https://tv.iill.top/FB/wx6ehf
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」08:45 小组赛 巴黎圣日耳曼 vs 博塔福戈 赛场原声
-URL: https://tv.iill.top/FB/RRJTdn
+URL: https://tv.iill.top/FB/8hppGt
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」08:45 小组赛 巴黎圣日耳曼 vs 博塔福戈 鹿中原 王宇
-URL: https://tv.iill.top/FB/mO42Dn
+URL: https://tv.iill.top/FB/p3SDdY
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」23:45 小组赛 本菲卡 vs 奥克兰城 刘腾
-URL: https://tv.iill.top/FB/zFy7x4
+URL: https://tv.iill.top/FB/mGu7QK
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」23:45 小组赛 本菲卡 vs 奥克兰城 赛场原声
-URL: https://tv.iill.top/FB/a0E9qp
+URL: https://tv.iill.top/FB/XrGMOJ
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 「世俱杯」23:45 小组赛 本菲卡 vs 奥克兰城 刘腾
-URL: https://tv.iill.top/FB/3eJApn
+URL: https://tv.iill.top/FB/Xzxoa9
 Logo: https://epg.iill.top/logo/足球.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
@@ -6669,32 +6639,32 @@ Logo: https://epg.iill.top/logo/澳门莲花.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 澳門Macau
-URL: https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+URL: https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 Logo: https://epg.iill.top/logo/澳门Macau.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 澳門葡文
-URL: https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+URL: https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 Logo: https://epg.iill.top/logo/澳视葡文.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 澳視澳門
-URL: https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+URL: https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 Logo: https://epg.iill.top/logo/澳视澳门.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 澳門資訊
-URL: https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+URL: https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 Logo: https://epg.iill.top/logo/澳门资讯.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 澳門體育
-URL: https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+URL: https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 Logo: https://epg.iill.top/logo/澳门体育.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
 Name: 澳門綜藝
-URL: https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+URL: https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 Logo: https://epg.iill.top/logo/澳门综艺.png
 Source: https://tv.iill.top/m3u/Gather
 --------------------------------------------------
